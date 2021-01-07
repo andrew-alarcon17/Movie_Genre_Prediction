@@ -18,7 +18,6 @@ Also another important point to keep in mind is that Tf-idf can be successfully 
 Here is the plot of the predictions. As you can see, drama seems to be correlated with a variety of other different genres. Obviously it is most highly correlated to itself, but the runner up is surprisingly comedy.
 
 
-<img src="https://github.com/andrew-alarcon17/Movie_Genre_Prediction/blob/main/Movie_Plots_Vis/Heatmap.png" width="500">
 
 To test the model further, I used the plot summary of The Dark Knight as an input. The model predicted this movie to be considered drama. I would agree with this prediction.
 
