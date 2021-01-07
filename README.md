@@ -6,7 +6,7 @@
 This data contains multiple properties of movies, such as the release year, ethnicity, director, genre, its Wikipedia page, and plot.
 
 
-<img src="https://github.com/andrew-alarcon17/Image_Classification_CNN/blob/main/Movie_Plot_Vis/Bar_Chart.png" width="500">
+<img src="https://github.com/andrew-alarcon17/Movie_Genre_Prediction/blob/main/Movie_Plot_Vis/Bar_Chart.png" width="500">
 
 
 ## Project Summary:
